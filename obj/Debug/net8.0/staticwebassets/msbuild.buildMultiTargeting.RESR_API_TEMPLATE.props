@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RESR_API_TEMPLATE.props" />
+</Project>

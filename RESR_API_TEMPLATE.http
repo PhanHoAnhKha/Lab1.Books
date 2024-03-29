@@ -1,0 +1,6 @@
+@RESR_API_TEMPLATE_HostAddress = http://localhost:5104
+
+GET {{RESR_API_TEMPLATE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
